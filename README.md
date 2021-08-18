@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm lilhalzy</h1>
 <h3 align="center">Self Thought 18y/o (look mom I'm older now) in Malaysia</h3>
+<h6 align="center"> Currently on learning stages... Back soon</h6>
 
 
 <h3 align="left">Languages and Tools:</h3>
