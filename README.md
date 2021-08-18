@@ -1,4 +1,4 @@
-![flag-malaysia](https://user-images.githubusercontent.com/89115099/129836222-00ee1042-96dc-46b8-bf80-ad1cc08b5bac.png)
+
 <h1 align="center">Hi 👋, I'm lilhalzy</h1>
 <h3 align="center">Self Thought 18y/o (look mom I'm older now) in Malaysia </h3> 
 <h6 align="center"> Currently on learning stages... Back soon</h6>
