@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Halzy</h1>
-<h3 align="center">A 18y/o Software Developer (look mom I'm older now) </h3> 
+<h3 align="center">Software Engineer </h3> 
 <h6 align="center"> Currently on learning stages... Back soon</h6>
 
 <br>
