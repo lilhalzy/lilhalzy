@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daan</h1>
-<h3 align="center">Software Engineer </h3> 
+<h3 align="center">Front-End Engineer </h3> 
 <h6 align="center"> Currently on learning stages... Back soon</h6>
 
 <br>
