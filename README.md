@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Daan</h1>
 <h3 align="center">Front-End Engineer </h3> 
-<h6 align="center"> Currently on learning stages... Back soon</h6>
+<h6 align="center">Currently on learning stages... Back soon</h6>
+<h6 align="center">I'm finally returned after facing ton of difficulties and I'm ready to code again. Thanks to myself for being strong 💪🏻</h6>
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
