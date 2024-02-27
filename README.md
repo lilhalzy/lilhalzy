@@ -9,8 +9,8 @@
 <div align="center">
   <a href="mailto:lilhalzy@skiff.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=d14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://profile-counter.glitch.me/lilhalzy/count.svg?" />
   </a>
+  <img src="https://profile-counter.glitch.me/lilhalzy/count.svg?" />
   <a href="https://discordapp.com/users/880454651927990282" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -68,9 +68,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=haz-ziq&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/lilhalzy/lilhalzy/output/snake.svg" alt="Snake animation" />
