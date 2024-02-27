@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">★ Software Engineer<br>✭ Adapting to Full Stack Tech<br>☆ 20 | MY</p>
+<h4 align="left">★ Software Engineer<br>✭ Adapting to Full Stack Tech<br>☆ 20 | MY</h4>
 
 ###
 
@@ -12,7 +12,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="lilhalzy@skiff.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=d14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -28,10 +30,6 @@
   <img src="https://streak-stats.demolab.com?user=lilhalzy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lilhalzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&custom_title=%E2%9C%B1" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://www.jeandawson.com/static/img/404-jeandawson.gif"  />
 
 ###
 
@@ -63,15 +61,20 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lilhalzy/lilhalzy/output/snake.svg" alt="Snake animation" />
+<img align="left" height="250" src="https://www.jeandawson.com/static/img/404-jeandawson.gif"  />
 
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-  ![Recently played](https://spotify-recently-played-readme.vercel.app/api?user=haz-ziq&count=3)
+  <a href="https://open.spotify.com/user/haz-ziq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=haz-ziq&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lilhalzy/lilhalzy/output/snake.svg" alt="Snake animation" />
 
 ###
