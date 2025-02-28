@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">★ Software Engineer<br>✭ Adapting to Full Stack Tech<br>☆ 20 | MY</h4>
+<h4 align="left">★ Software Engineer<br>✭ Adapting to Full Stack Tech
 
 ###
 
