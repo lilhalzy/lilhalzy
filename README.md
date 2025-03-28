@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:lilhalzy@skiff.com" target="_blank">
+  <a href="mailto:lilhalzy@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=d14836&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://profile-counter.glitch.me/lilhalzy/count.svg?" />
